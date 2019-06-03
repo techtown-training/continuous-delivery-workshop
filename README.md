@@ -11,6 +11,7 @@ Current version of instructor materials - https://aspetraining.securevdr.com/d-s
 Current version of student materials - https://aspetraining.securevdr.com/d-s8ea90ec966748bf8
 
 This course uses AWS
+Note: Course uses a Windows image so only the Windows portion of the connection test is required.
 
 AMI: CI / CD Goldem Image
 
