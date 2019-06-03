@@ -11,10 +11,15 @@ Current version of instructor materials - https://aspetraining.securevdr.com/d-s
 Current version of student materials - https://aspetraining.securevdr.com/d-s8ea90ec966748bf8
 
 This course uses AWS
+
 AMI: CI / CD Goldem Image
+
 Region Created: US West 2  (Northern CA)
+
 Instance Size Recomended: t2.Large
+
 User Name: Administrator
+
 Password: JustM300
 
 Here are the prerequisites we send to students enrolled in the class: 
