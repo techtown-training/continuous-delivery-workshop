@@ -13,7 +13,7 @@ Current version of student materials - https://aspetraining.securevdr.com/d-s8ea
 This course uses AWS
 Note: Course uses a Windows image so only the Windows portion of the connection test is required.
 
-AMI: CI / CD Goldem Image
+AMI: CI / CD Goldem Image 4
 
 Region Created: US West 2  (Northern CA)
 
